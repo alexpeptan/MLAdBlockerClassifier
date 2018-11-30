@@ -80,3 +80,4 @@ print_prediction_result(classifier, train_data_after_cleanup, 12)
 print_prediction_result(classifier, train_data_after_cleanup, 2301)
 print_prediction_result(classifier, train_data_after_cleanup, 13)
 print_prediction_result(classifier, train_data_after_cleanup, 2302)
+print_prediction_result(classifier, train_data_after_cleanup, -1)  # Last element in training_data
